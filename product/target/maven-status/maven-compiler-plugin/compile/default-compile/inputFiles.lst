@@ -1,0 +1,9 @@
+/home/project/product/src/main/java/mall/ProductRepository.java
+/home/project/product/src/main/java/mall/ProductApplication.java
+/home/project/product/src/main/java/mall/config/kafka/KafkaProcessor.java
+/home/project/product/src/main/java/mall/AbstractEvent.java
+/home/project/product/src/main/java/mall/PolicyHandler.java
+/home/project/product/src/main/java/mall/ProductController.java
+/home/project/product/src/main/java/mall/ProductRegistered.java
+/home/project/product/src/main/java/mall/Product.java
+/home/project/product/src/main/java/mall/StockModified.java
